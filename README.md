@@ -54,3 +54,5 @@ The header uses the original downloaded Instagram profile logo, cropped in CSS t
 Modernised typography, larger body and product text, quieter borders, rounded image surfaces, cleaner product photography, more whitespace and a simpler navigation. The shop now contains category tabs, search, a filter drawer, sorting and the On offer toggle in one place. Added supplements have explicit prototype markers and illustrative prices. See SOURCE_NOTES.md for manufacturer and hero-photo attribution.
 
 Authenticated highlight update: nine further product groups use actual Accessories story images. Their original stories and gallery images are retained locally; prices remain on enquiry where not shown. Older highlights do not imply current availability.
+
+Customer-facing copy now uses ordinary product descriptions. Internal provenance and illustrative-inventory metadata remain in SOURCE_NOTES.md and data.js, rather than customer-facing badges or sourcing notes.

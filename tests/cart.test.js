@@ -24,10 +24,10 @@ test('order enquiry includes requested variants, price quote and fulfilment deta
 test('removed catalog records are ignored in totals and enquiry',()=>{
  const cart=[{id:'missing',quantity:3}];assert.deepEqual(totals(cart,products),{count:0,subtotal:0,unpriced:0});assert.doesNotMatch(orderMessage(cart,products),/undefined/);
 });
-test('prototype prices are identified as samples in outgoing enquiry text',()=>{
+test('order enquiry contains product and price without internal sourcing labels',()=>{
  const sample={id:'whey',name:'Whey Protein',price:45,prototype:true};
  const message=orderMessage(addLine([],sample),[sample]);
- assert.match(message,/Prototype selection — please confirm/);
- assert.match(message,/Sample \$45 each/);
- assert.doesNotMatch(message,/Advertised \$45 each/);
+ assert.match(message,/Whey Protein/);
+ assert.match(message,/\$45 each/);
+ assert.doesNotMatch(message,/prototype|sample|advertised|highlight/i);
 });

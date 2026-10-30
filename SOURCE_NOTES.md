@@ -79,3 +79,8 @@ Source: https://www.instagram.com/stories/highlights/17849279420410719/
 The Weights highlight was also opened and showed a plate-and-bar dumbbell set on video. No additional stock or price was inferred from that video.
 
 The authenticated profile exposed current post captions. The grey winter jacket's advertised price was confirmed as $75. Water bottle and spinning-bike source links were corrected to match their visible caption collections. The profile also identifies the store as next to Samsung Karizma Megastore.
+
+
+## Customer-facing copy cleanup
+
+At the user’s request, sourcing badges, archive notes, prototype labels and product provenance links were removed from the storefront and enquiry text. Descriptions now identify visible product features or previously verified label details. Internal source links and provenance remain here and in data.js for maintenance. This presentation change does not independently verify current inventory or example supplement prices.

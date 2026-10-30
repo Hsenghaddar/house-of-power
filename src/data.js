@@ -1,4 +1,4 @@
-// Business posts, authenticated highlight imagery, and marked prototype supplement selections.
+// Internal sourcing metadata is retained for maintainers; storefront copy is customer-facing.
 export const business = {
   "name": "House of Power",
   "instagram": "https://www.instagram.com/house_of_power/",
@@ -65,10 +65,10 @@ export const products = [
     "compareAt": 52,
     "image": "/images/whey-chocolate.png",
     "source": "https://www.optimumnutrition.com/en-us/products/gold-standard-100-whey-protein-powder",
-    "description": "A chocolate whey protein powder from Optimum Nutrition. This 2 lb selection is included as sample inventory for the prototype.",
+    "description": "Chocolate-flavoured whey protein powder in a 2 lb tub. Double Rich Chocolate from Optimum Nutrition.",
     "features": [
       "Double Rich Chocolate flavour",
-      "2 lb container",
+      "2 lb tub",
       "Whey protein powder"
     ],
     "badge": "Protein",
@@ -85,11 +85,11 @@ export const products = [
     "price": 29,
     "image": "/images/creatine.png",
     "source": "https://www.optimumnutrition.com/en-us/products/creatine-monohydrate-micronized-powder",
-    "description": "Unflavoured micronized creatine monohydrate powder from Optimum Nutrition. A sample addition to the sports nutrition collection.",
+    "description": "Unflavoured micronized creatine monohydrate powder in a compact 300 g tub.",
     "features": [
-      "Unflavoured powder",
-      "300 g container",
-      "Creatine monohydrate"
+      "Unflavoured",
+      "300 g tub",
+      "Creatine monohydrate powder"
     ],
     "badge": "Creatine",
     "category": "supplements",
@@ -121,11 +121,12 @@ export const products = [
       "Grey",
       "Olive"
     ],
-    "description": "Winter Collection. $75. Adjustable hood, premium quality and zipper pockets are advertised in the product artwork.",
+    "description": "A padded winter jacket with an adjustable hood, full-length front zip and zipped pockets. Available in a choice of colours.",
     "features": [
-      "Winter collection",
-      "Multiple colours shown in the collection",
-      "Ask the team to confirm your size and colour"
+      "Padded design",
+      "Adjustable hood",
+      "Full-length front zip",
+      "Zipped pockets"
     ],
     "featured": true,
     "cardImage": "/images/puffer-catalog.jpg",
@@ -155,11 +156,12 @@ export const products = [
     "colors": [
       "White / Grey"
     ],
-    "description": "Puma footwear featured in the October 25 Instagram post. Advertised price: $90.",
+    "description": "Low-top Puma sneakers with a panelled white and grey upper and a contrasting gum-coloured outsole. An easy match for your everyday sportswear.",
     "features": [
       "White and grey colourway",
-      "Puma design shown in the original post",
-      "Confirm available sizes before ordering"
+      "Lace-up fastening",
+      "Low-top profile",
+      "Contrasting outsole"
     ],
     "featured": true,
     "cardImage": "/images/puma-catalog.jpg",
@@ -175,11 +177,11 @@ export const products = [
     "price": 35,
     "image": "/images/pre-workout.png",
     "source": "https://www.optimumnutrition.com/en-us/products/gold-standard-pre-workout-powder",
-    "description": "Blueberry Lemonade pre-workout powder from Optimum Nutrition, shown as a sample selection for the prototype catalog.",
+    "description": "Blueberry Lemonade pre-workout powder from Optimum Nutrition in a 300 g tub.",
     "features": [
       "Blueberry Lemonade flavour",
-      "300 g container",
-      "Contains caffeine; refer to the manufacturer label"
+      "300 g tub",
+      "Contains caffeine"
     ],
     "badge": "Pre-workout",
     "category": "supplements",
@@ -195,10 +197,10 @@ export const products = [
     "price": 65,
     "image": "/images/serious-mass.png",
     "source": "https://www.optimumnutrition.com/en-us/products/serious-mass-weight-gainer-protein-powder",
-    "description": "Chocolate flavoured weight-gainer powder from Optimum Nutrition. The 6 lb container is a sample product selection for this prototype.",
+    "description": "Chocolate-flavoured weight-gainer powder from Optimum Nutrition in a 6 lb tub.",
     "features": [
       "Chocolate flavour",
-      "6 lb container",
+      "6 lb tub",
       "Weight-gainer powder"
     ],
     "badge": "Mass gainer",
@@ -215,11 +217,11 @@ export const products = [
     "price": 32,
     "image": "/images/amino-energy.png",
     "source": "https://www.optimumnutrition.com/en-us/products/essential-amino-energy-pre-workout-powder",
-    "description": "Blue Raspberry amino-acid and energy powder from Optimum Nutrition. Included as illustrative inventory to complete the supplement collection.",
+    "description": "Blue Raspberry amino-acid and energy drink powder from Optimum Nutrition.",
     "features": [
       "Blue Raspberry flavour",
-      "270 g container",
-      "Contains caffeine; refer to the manufacturer label"
+      "270 g tub",
+      "Contains caffeine"
     ],
     "badge": "Amino acids",
     "category": "supplements",
@@ -235,10 +237,10 @@ export const products = [
     "price": 45,
     "image": "/images/whey-vanilla.png",
     "source": "https://www.optimumnutrition.com/en-us/products/gold-standard-100-whey-protein-powder",
-    "description": "French Vanilla Creme whey protein powder from Optimum Nutrition. An alternative flavour shown as sample inventory for the prototype.",
+    "description": "French Vanilla Creme whey protein powder from Optimum Nutrition in a 2 lb tub.",
     "features": [
       "French Vanilla Creme flavour",
-      "2 lb container",
+      "2 lb tub",
       "Whey protein powder"
     ],
     "badge": "Protein",
@@ -267,12 +269,12 @@ export const products = [
       "Black",
       "Green"
     ],
-    "description": "Professional Massage Gun. Deep muscle relief. Only $35. 4 speed levels, 4 massage heads, quiet and compact, rechargeable battery. 1 year warranty advertised.",
+    "description": "A rechargeable massage gun with four speed settings and four interchangeable heads. Choose from burgundy, green or black.",
     "features": [
-      "4 speed levels",
-      "4 massage heads",
+      "Four speed settings",
+      "Four interchangeable massage heads",
       "Rechargeable battery",
-      "1-year warranty advertised in the source post; confirm terms with the team"
+      "Burgundy, green and black options"
     ],
     "featured": true
   },
@@ -289,12 +291,12 @@ export const products = [
     "colors": [
       "Clear"
     ],
-    "description": "Glass Water Bottle. 1.2L capacity. Only $15. Premium glass, built-in tea infuser and easy to carry — as advertised in the original post.",
+    "description": "A 1.2-litre glass water bottle with a built-in tea infuser, screw-top lid and carry loop.",
     "features": [
       "1.2L capacity",
+      "Glass bottle",
       "Built-in tea infuser",
-      "Carry handle",
-      "Glass body"
+      "Carry loop"
     ],
     "featured": true
   },
@@ -312,12 +314,11 @@ export const products = [
       "Red",
       "Blue"
     ],
-    "description": "Spinning Sport Bike. Home · Gym · Cardio · Fitness. Only $199. Adjustable seat. Max user weight 120 kg. Available in Red & Blue.",
+    "description": "A stationary spinning bike with an adjustable seat for your home training setup. Available in red and blue.",
     "features": [
       "Adjustable seat",
-      "120kg maximum user weight advertised",
-      "Red and blue options shown",
-      "Confirm assembly and delivery details with the team"
+      "120 kg maximum user weight",
+      "Red and blue options"
     ],
     "featured": true
   },
@@ -331,11 +332,11 @@ export const products = [
     "source": "https://www.instagram.com/house_of_power/p/DeLvaKOOFrX/",
     "date": "2026-10-06",
     "badge": "Home training",
-    "description": "Pull Up Bars. Wall Mounted Pull Up Bar: $37. Featured in the October 6 product artwork.",
+    "description": "A black wall-mounted pull-up bar with multiple grip positions for a home training setup.",
     "features": [
       "Wall-mounted design",
-      "Multiple grip positions shown",
-      "Confirm wall compatibility and installation requirements"
+      "Multiple grip positions",
+      "Black finish"
     ],
     "featured": true
   },
@@ -348,11 +349,11 @@ export const products = [
     "image": "/images/a96c029f0c1c272d.jpg",
     "source": "https://www.instagram.com/house_of_power/p/DeLvaKOOFrX/",
     "date": "2026-10-06",
-    "description": "Pull Up Bars. Doorway Pull Up Bar: $27. Featured in the October 6 product artwork.",
+    "description": "An adjustable doorway pull-up bar with a 96–145 cm fitting range. Check your doorway measurements before ordering.",
     "features": [
-      "Doorway design",
-      "Adjustable fit shown in post",
-      "Confirm dimensions and safe installation before use"
+      "Doorway fitting",
+      "Adjustable 96–145 cm range",
+      "Compact training setup"
     ]
   },
   {
@@ -373,11 +374,11 @@ export const products = [
     "colors": [
       "Black"
     ],
-    "description": "Gym Gloves — Men & Women. Fitness Gloves: $10. Protection · Comfort · Performance.",
+    "description": "Black fingerless fitness gloves for your training bag.",
     "features": [
-      "Training glove design",
-      "Black colourway shown",
-      "Confirm size and availability"
+      "Fingerless design",
+      "Black colourway",
+      "Palm coverage"
     ]
   },
   {
@@ -400,11 +401,11 @@ export const products = [
       "Pink",
       "Grey"
     ],
-    "description": "Gym Gloves — Men & Women. Men’s / Women’s Gloves: $8. Protection · Comfort · Performance.",
+    "description": "Fingerless gym gloves in a selection of colours and designs for men and women.",
     "features": [
-      "Multiple designs shown",
-      "Men’s and women’s options",
-      "Confirm your preferred style with the team"
+      "Fingerless design",
+      "Men’s and women’s styles",
+      "Choice of colours"
     ]
   },
   {
@@ -425,11 +426,11 @@ export const products = [
     "colors": [
       "Black"
     ],
-    "description": "Gym Gloves — Men & Women. Wrist Support Gloves: $12. Protection · Comfort · Performance.",
+    "description": "Black training gloves with a fingerless design and an extended wrist-wrap fastening.",
     "features": [
-      "Wrist-wrap design",
-      "Black colourway shown",
-      "Ask about sizes and fit"
+      "Fingerless design",
+      "Wrist-wrap fastening",
+      "Black colourway"
     ]
   },
   {
@@ -451,11 +452,12 @@ export const products = [
     "colors": [
       "Grey"
     ],
-    "description": "Winter Collection. Grey jacket shown in the October 21 Instagram reel. No price is visible in the public preview.",
+    "description": "A grey padded winter jacket with a hood, full-length front zip and a quilted panel design.",
     "features": [
-      "Grey padded design shown",
-      "Winter collection",
-      "Price and sizes confirmed on enquiry"
+      "Grey colourway",
+      "Hooded design",
+      "Full-length front zip",
+      "Quilted panels"
     ],
     "cardImage": "/images/grey-jacket-catalog.jpg",
     "gallery": [
@@ -483,11 +485,12 @@ export const products = [
     "colors": [
       "Grey"
     ],
-    "description": "New Arrival — Sports Shoes. Grey Nike shoes shown in the October 12 Instagram product artwork. No price is visible.",
+    "description": "Grey Nike sports shoes with a lace-up upper, white side logo and a contrasting white sole.",
     "features": [
-      "Grey colourway shown",
-      "New-arrival footwear collection",
-      "Exact model and sizes confirmed on enquiry"
+      "Grey colourway",
+      "Lace-up fastening",
+      "White side logo",
+      "Contrasting white sole"
     ],
     "cardImage": "/images/nike-catalog.jpg",
     "gallery": [
@@ -516,11 +519,12 @@ export const products = [
       "Brown",
       "Black"
     ],
-    "description": "50% OFF. $40 reduced to $20. Brown / Black are labelled in the Instagram offer highlight. Confirm that the advertised offer is still available.",
+    "description": "A zip-up hoodie with a drawstring hood, front pockets and a ribbed hem. Choose brown or black.",
     "features": [
-      "Olive and black shown",
-      "50% reduction advertised in Instagram highlight",
-      "Offer subject to confirmation"
+      "Full-length front zip",
+      "Drawstring hood",
+      "Front pockets",
+      "Brown and black options"
     ]
   },
   {
@@ -532,22 +536,23 @@ export const products = [
     "image": "/images/b5a194b53528f97e.jpg",
     "source": "https://www.instagram.com/stories/highlights/17933447314421443/",
     "date": "2026-10-01",
-    "description": "Dumbbells shown in the Weights Instagram highlight. The public cover does not list specifications or a price.",
+    "description": "Adjustable dumbbells with a compact plate design and a central grip handle for your home training setup.",
     "features": [
-      "Weights collection",
-      "Ask about available weight ranges",
-      "Price and exact set confirmed on enquiry"
+      "Adjustable weight design",
+      "Central grip handle",
+      "Compact shape"
     ]
   },
   {
     "id": "push-up-bars",
     "name": "Push-Up Bars",
     "category": "gym-equipment",
-    "description": "A pair of push-up bars shown in the Accessories highlight. The pictured design has turquoise handles on black bases.",
+    "description": "A pair of push-up bars with turquoise handles and wide black bases. The compact design is easy to store between sessions.",
     "features": [
-      "Pair shown in the highlight",
-      "Turquoise handles and black bases",
-      "Ask about the current model and availability"
+      "Two push-up bars",
+      "Turquoise handles",
+      "Wide black bases",
+      "Compact design"
     ],
     "brand": "House of Power",
     "price": null,
@@ -559,7 +564,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   },
@@ -567,11 +571,11 @@ export const products = [
     "id": "exercise-yoga-mats",
     "name": "Exercise & Yoga Mats",
     "category": "gym-equipment",
-    "description": "Exercise and yoga mats shown across the Accessories highlight, including rolled mats, a carry strap and different colours. Ask the team about the current styles and dimensions.",
+    "description": "Roll-up exercise and yoga mats in a selection of colours. Choose a style for stretching, floor exercises or your yoga routine.",
     "features": [
-      "Several mat designs shown",
-      "Rolled mat and carry-strap styles",
-      "Available colours and dimensions confirmed by the store"
+      "Roll-up design",
+      "Choice of colours",
+      "Carry-strap styles available"
     ],
     "collection": true,
     "brand": "House of Power",
@@ -587,7 +591,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   },
@@ -595,11 +598,11 @@ export const products = [
     "id": "cable-ankle-straps",
     "name": "Cable Ankle Straps",
     "category": "accessories",
-    "description": "Ankle straps shown in the Accessories highlight with an exercise demonstration. Ask the team to confirm the fastening and machine compatibility.",
+    "description": "Ankle straps with a wraparound fastening for cable-machine exercises.",
     "features": [
-      "Ankle strap design shown",
-      "Exercise demonstration in the source image",
-      "Confirm the exact set and compatibility"
+      "Wraparound ankle design",
+      "Adjustable fastening",
+      "Cable-machine accessory"
     ],
     "brand": "House of Power",
     "price": null,
@@ -611,7 +614,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   },
@@ -619,11 +621,11 @@ export const products = [
     "id": "loop-resistance-bands",
     "name": "Loop Resistance Bands",
     "category": "gym-equipment",
-    "description": "Long resistance bands shown in a training demonstration in the Accessories highlight. Ask about the current resistance levels and set options.",
+    "description": "Long loop resistance bands in a selection of colours for your training setup.",
     "features": [
-      "Long band designs shown",
-      "Multiple colours in the demonstration",
-      "Resistance levels and set contents confirmed on enquiry"
+      "Long loop design",
+      "Multiple colours",
+      "Compact and portable"
     ],
     "brand": "House of Power",
     "price": null,
@@ -635,7 +637,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   },
@@ -643,11 +644,11 @@ export const products = [
     "id": "workout-grip-gloves",
     "name": "Workout Grip Gloves",
     "category": "accessories",
-    "description": "Black and pink workout grip gloves shown in the Accessories highlight. Contact the team to check current styles and sizes.",
+    "description": "Black and pink workout grip gloves with an open-finger design and wrist fastening.",
     "features": [
-      "Black and pink design shown",
-      "Training grip glove style",
-      "Size and current availability confirmed by the team"
+      "Black and pink design",
+      "Open-finger grip coverage",
+      "Wrist fastening"
     ],
     "brand": "House of Power",
     "price": null,
@@ -659,7 +660,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   },
@@ -667,11 +667,11 @@ export const products = [
     "id": "training-wrist-wraps",
     "name": "Training Wrist Wraps",
     "category": "accessories",
-    "description": "Wrist wraps shown in black with contrasting coloured stripes. The highlight includes a wrist-wrapping demonstration.",
+    "description": "Black training wrist wraps with contrasting green, red or yellow stripes and thumb loops.",
     "features": [
-      "Black wraps with coloured stripes",
-      "Wrist-wrap demonstration shown",
-      "Confirm the current colour and pair options"
+      "Wraparound design",
+      "Thumb loops",
+      "Contrasting coloured stripes"
     ],
     "brand": "House of Power",
     "price": null,
@@ -683,7 +683,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   },
@@ -691,11 +690,11 @@ export const products = [
     "id": "dumbbell-water-bottle",
     "name": "Dumbbell Water Bottle",
     "category": "accessories",
-    "description": "Dumbbell-shaped water bottles shown in several colours in the Accessories highlight. Ask the team about capacity and current colour options.",
+    "description": "A reusable water bottle with a dumbbell-shaped body and screw-top lid. Available in several colours.",
     "features": [
-      "Dumbbell-shaped bottle design",
-      "Multiple colours shown",
-      "Capacity and current colours confirmed on enquiry"
+      "Dumbbell-shaped body",
+      "Screw-top lid",
+      "Choice of colours"
     ],
     "brand": "House of Power",
     "price": null,
@@ -707,7 +706,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   },
@@ -715,11 +713,11 @@ export const products = [
     "id": "weightlifting-straps",
     "name": "Weightlifting Straps",
     "category": "accessories",
-    "description": "Black lifting straps shown with a hand-and-bar demonstration in the Accessories highlight. Confirm the exact pair and dimensions with the store.",
+    "description": "Black lifting straps with looped ends and a long wraparound section.",
     "features": [
-      "Black strap design shown",
-      "Hand-and-bar demonstration",
-      "Confirm dimensions and set contents"
+      "Black colourway",
+      "Looped ends",
+      "Wraparound strap design"
     ],
     "brand": "House of Power",
     "price": null,
@@ -731,7 +729,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   },
@@ -739,11 +736,11 @@ export const products = [
     "id": "adjustable-hand-grip",
     "name": "Adjustable Hand Gripper",
     "category": "accessories",
-    "description": "An orange and black hand gripper shown in the Accessories highlight. The source image shows a spring and an adjustment knob; ask about its resistance range.",
+    "description": "An orange and black hand gripper with a spring mechanism and an adjustment knob.",
     "features": [
-      "Orange and black design",
-      "Spring and adjustment knob shown",
-      "Resistance range confirmed by the team"
+      "Spring mechanism",
+      "Adjustment knob",
+      "Orange and black handles"
     ],
     "brand": "House of Power",
     "price": null,
@@ -755,7 +752,6 @@ export const products = [
     ],
     "source": "https://www.instagram.com/stories/highlights/17849279420410719/",
     "highlight": true,
-    "badge": "From highlights",
     "date": "",
     "sourceNote": "Seen in an older Accessories highlight. Current stock, specifications and price require confirmation."
   }
