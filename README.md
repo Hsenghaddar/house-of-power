@@ -56,3 +56,5 @@ Modernised typography, larger body and product text, quieter borders, rounded im
 Authenticated highlight update: nine further product groups use actual Accessories story images. Their original stories and gallery images are retained locally; prices remain on enquiry where not shown. Older highlights do not imply current availability.
 
 Customer-facing copy now uses ordinary product descriptions. Internal provenance and illustrative-inventory metadata remain in SOURCE_NOTES.md and data.js, rather than customer-facing badges or sourcing notes.
+
+The homepage now includes Build your setup shopping guides instead of an Instagram image feed. The home-gym, strength and recovery links open matching product collections within Shop and combine with its existing filters.

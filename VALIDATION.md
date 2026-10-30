@@ -20,3 +20,5 @@ This remains a frontend prototype with illustrative supplement inventory, sample
 - Mat variants are grouped in one gallery; all local catalog and gallery asset paths were validated.
 - New archive-derived items use enquiry pricing, with no current stock claim.
 - Grey winter jacket price confirmed from the exposed post caption; source links for the bottle and bike collections corrected.
+
+Homepage shopping guides: removed the Instagram image-feed section; verified three guides with internal Shop links, the four-product home-gym collection, clearing its filter back to 29 products, and a phone layout without horizontal overflow.
