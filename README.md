@@ -28,7 +28,7 @@ npm.cmd run preview
 - Persistent local shopping bag, separate variants, quantity editing and removal.
 - Checkout enquiry: delivery or pickup, customer details, message review and WhatsApp handoff. Nothing is sent automatically.
 - Original Instagram images, real manufacturer product photos and an external Unsplash hero photo saved locally. No AI-generated imagery.
-- Accessible labels, keyboard focus, Escape-to-close dialogs, focus trapping, reduced-motion support and mobile bottom navigation.
+- Accessible labels, keyboard focus, Escape-to-close dialogs, focus trapping, reduced-motion support and header access to search, favourites and the bag.
 
 ## Content and limits
 
@@ -58,3 +58,5 @@ Authenticated highlight update: nine further product groups use actual Accessori
 Customer-facing copy now uses ordinary product descriptions. Internal provenance and illustrative-inventory metadata remain in SOURCE_NOTES.md and data.js, rather than customer-facing badges or sourcing notes.
 
 The homepage now includes Build your setup shopping guides instead of an Instagram image feed. The home-gym, strength and recovery links open matching product collections within Shop and combine with its existing filters.
+
+Mobile Shop: a native category selector exposes every category on phones, with separate full-width search and touch-friendly filter/sort controls. Product action targets are larger. Favourites remain beside Search in the header and the fixed bottom navigation has been removed.

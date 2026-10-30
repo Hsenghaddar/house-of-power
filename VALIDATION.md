@@ -22,3 +22,5 @@ This remains a frontend prototype with illustrative supplement inventory, sample
 - Grey winter jacket price confirmed from the exposed post caption; source links for the bottle and bike collections corrected.
 
 Homepage shopping guides: removed the Instagram image-feed section; verified three guides with internal Shop links, the four-product home-gym collection, clearing its filter back to 29 products, and a phone layout without horizontal overflow.
+
+Mobile Shop revision: production build passed; browser checks at 320px, 390px and 1280px found no horizontal overflow. All seven category options are available on mobile. Gym equipment returned seven products and Recovery returned one. Mobile brand filtering returned six products and closed its drawer correctly. The header heart opened Saved items. No bottom navigation is rendered; desktop still shows all seven category buttons.
